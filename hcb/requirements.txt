@@ -1,0 +1,7 @@
+pandas
+tqdm
+scikit-learn
+numpy
+scipy
+lightgbm
+gensim

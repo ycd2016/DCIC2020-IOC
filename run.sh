@@ -1,0 +1,10 @@
+cd qyxs
+python main.py
+cd ..
+cd Grand_Rookie
+python main.py
+cd ..
+cd hcb
+python extract_feature1.py
+python extract_feature2.py
+python main.py
