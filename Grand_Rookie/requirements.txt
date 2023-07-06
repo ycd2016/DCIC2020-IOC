@@ -2,7 +2,7 @@ pandas==0.25.1
 tqdm
 scikit-learn==0.21.3
 numpy==1.22.0
-scipy==1.4.1
+scipy==1.10.0
 lightgbm==2.3.1
 datetime
 warnings
